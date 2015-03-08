@@ -126,6 +126,7 @@ BOARD_SEPOLICY_UNION += \
     rild.te \
     rmt_storage.te \
     system_app.te \
+    system_server.te \
     thermal-engine.te
 
 # Vold
